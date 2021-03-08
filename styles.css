@@ -389,56 +389,6 @@ a:hover{color: rgb(255, 81, 0);}
     .contact-info{
         font-size:.75rem;
     }
-    /* .gif-friend-home{
-        padding-top:150px;
-    } */
-}
-    
-    /* #home-tab, #about-tab, #writing-tab{
-        height: 200px;
-    }
-    .gif-hayes-home{
-        width:100%;
-    }
-    .hayesbio{
-        padding: 20px;
-        font-size: 1rem;
-        height: 200px;
-    }
-    .pose-title, #posetitle, .marco-title, #marcotitle, #teentitle, .teen-title{
-        height: 50px;
-        padding: 10px 20px;
-        font-size: 1rem;
-        margin-bottom: 0;
-    }
-    .pose-paragraph{
-        color:#ee1818;
-        font-size: 4rem;
-        text-transform: uppercase;
-        margin-bottom: 0;
-
-    }
-    .poseparagraph, .video-link, .marcoparagraph, .teenparagraph, .contact-info, .rough-title{
-        padding: 20px;
-        font-size: 1rem;
-        height: 200px;
-        margin-bottom: 0;
-    }
-    #video-tab{
-        height: 80px;
-    }
-    .roughparagraph{
-        height: 300px;
-        padding: 20px;
-        font-size: 1rem;
-    }
-    .teenparagraph, .marcoparagraph, .poseparagraph{
-        padding-top:0;
-    }
-    .marco-paragraph, .teen-paragraph, .pose-paragraph{
-        font-size: 1.25rem;
-        padding-top: 20px;
-    }  */
 
     @media only screen 
     and (min-width: 601px) and (max-width: 1100px){
@@ -565,37 +515,3 @@ a:hover{color: rgb(255, 81, 0);}
         padding-top:0;
     }
 }
-
-        /* .homescreenpages{
-            height: 200px;
-        }
-        #home-tab, #about-tab, #writing-tab{
-            height: 200px;
-        }
-        .gif-hayes-home{
-            width:100%;
-
-        }
-        .hayesbio, .poseparagraph, .marcoparagraph,.video-link, .contact-info, .pose-title, #marco-title,.marco-title, .teen-title, .rough-title{
-            padding: 20px;
-            font-size: 1.25rem;
-            height: 200px;
-        }
-        .teenparagraph{
-            height:250px;
-            padding: 20px;
-            font-size: 1.25rem;
-        }
-        .roughparagraph{
-            padding: 20px;
-            font-size: 1.25rem;
-            height: 375px;
-        }
-        .videotab,  #video-tab{height:50px; margin-top:50px; padding-top: 50px; padding-bottom:50px;}
-        .marco-paragraph, .teen-paragraph, .pose-paragraph{
-            font-size: 1.25rem;
-            padding-top: 20px;
-        }
-    
-    }
-} */
