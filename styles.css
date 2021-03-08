@@ -101,6 +101,7 @@ a:hover{color: rgb(255, 81, 0);}
     width:100%;
     position:absolute;
     z-index:1;
+    padding-top:100px;
   
 }
 
@@ -230,11 +231,12 @@ a:hover{color: rgb(255, 81, 0);}
 }
 .videotab{
     color:#ee1818;
-    font-size: 4rem;
+    font-size: 10rem;
     text-transform: uppercase;
     margin-bottom: 0;
     z-index:2;
     position:absolute;
+    padding-top:500px;
 }
 #contact-tab{
     height: 800px;
